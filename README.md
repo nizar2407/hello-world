@@ -1,4 +1,3 @@
-# hello-world
-Just Hello World
+# About Me
 
-My name is Nizar Daffa
+My name is Nizar Daffa.
